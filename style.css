@@ -1,0 +1,28 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+    box.sizing: border-box; 
+}
+
+section { 
+    height: 100vh; 
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column; 
+}
+
+button { 
+    border: 2px, solid; 
+    outline: none; 
+    background-color: grey; 
+    color: black; 
+    font-size: 24px; 
+    cursor: pointer; 
+}
+
+h2 { 
+    margin-top: 30px; 
+    font-size: 24px; 
+}
